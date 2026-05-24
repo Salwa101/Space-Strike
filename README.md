@@ -48,7 +48,7 @@ It includes movement, shooting, enemy spawning, collision detection, and score t
   <li>Score system</li>
 </ul>
 
-<h2>👨‍💻 Author</h2>
+
 
 <p>
 Made for learning purposes.
